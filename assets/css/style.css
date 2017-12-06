@@ -9,3 +9,12 @@ button {
 	margin-top: 20px;
 
 }
+
+#Game {font-size: 20px;
+	line-height: 50px;
+}
+
+h1, button, #Game {
+	margin-left: 15px;
+
+}
